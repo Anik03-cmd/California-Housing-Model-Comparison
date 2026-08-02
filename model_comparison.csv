@@ -1,0 +1,4 @@
+,RMSE,MAE,R2 Score
+Decision Tree,0.7321,0.5318,0.608
+Linear Regression,0.7514,0.54,0.5871
+Ridge Regression,0.7514,0.54,0.5872
